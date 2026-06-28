@@ -1,0 +1,89 @@
+{
+  "app": {
+    "title": "Karasu Image Optimizer",
+    "subtitle": "Fast and high-quality batch image optimization with hardware acceleration"
+  },
+  "presets": {
+    "title": "Presets",
+    "web_optimized": "Web Optimized",
+    "mobile_optimized": "Mobile Optimized",
+    "thumbnail": "Thumbnail",
+    "max_compression": "Max Compression",
+    "high_quality": "High Quality",
+    "social_media": "Social Media"
+  },
+  "settings": {
+    "title": "Processing Settings",
+    "quality": "Image Quality",
+    "format": "Output Format",
+    "width": "Max Width (px)",
+    "height": "Max Height (px)",
+    "maintain_aspect": "Maintain Aspect Ratio",
+    "preserve_exif": "Preserve EXIF Metadata",
+    "smart_format": "Smart Format Selector",
+    "sharpen": "Sharpen Filter",
+    "blur": "Blur Filter",
+    "brightness": "Brightness",
+    "contrast": "Contrast",
+    "custom": "Custom Settings"
+  },
+  "actions": {
+    "upload": "Choose or drag images here",
+    "process": "Start Processing Images",
+    "processing": "Processing...",
+    "download": "Download",
+    "download_all": "Download All (ZIP)",
+    "preview": "Live Preview",
+    "cancel": "Cancel",
+    "clear_all": "Clear All",
+    "drag_drop": "Drag & drop files or click to upload"
+  },
+  "status": {
+    "uploading": "Uploading files...",
+    "processing_count": "Processing {{current}} of {{total}}",
+    "done": "Processing completed successfully!",
+    "error": "Processing error",
+    "ready": "Ready for processing",
+    "empty": "No files selected"
+  },
+  "stats": {
+    "title": "Processing Statistics",
+    "total": "Total Files",
+    "success": "Success",
+    "failed": "Failed",
+    "original_size": "Total Original Size",
+    "optimized_size": "Total Final Size",
+    "saved": "Saved Space",
+    "avg_ratio": "Avg Compression Ratio",
+    "time": "Total Processing Time"
+  },
+  "theme": {
+    "dark": "Dark Mode",
+    "light": "Light Mode"
+  },
+  "language": {
+    "fa": "فارسی",
+    "en": "English"
+  },
+  "history": {
+    "title": "Your Conversion History",
+    "view_history": "View History",
+    "back_to_optimizer": "Back to Optimizer",
+    "no_data": "No image conversion history found.",
+    "job_id": "Job ID",
+    "status": "Status",
+    "progress": "Files count",
+    "actions": "Actions",
+    "download_zip": "Download ZIP",
+    "view_files": "View Images",
+    "hide_files": "Hide Images",
+    "refresh": "Refresh List",
+    "file_name": "File Name",
+    "original_size": "Original Size",
+    "optimized_size": "Optimized Size",
+    "ratio": "Reduction Rate",
+    "success": "Success",
+    "failed": "Failed",
+    "download_file": "Download"
+  }
+}
